@@ -14,5 +14,6 @@ This list was assembled to share the best talks / lectures related to quality an
 
 ***
 
-# gtac
+## GTAC
+[GTAC 2016: Integration Testing with Multiple Mobile Devices and Services](https://www.youtube.com/watch?v=8tjsxxSMkpA&t=164s)
 
