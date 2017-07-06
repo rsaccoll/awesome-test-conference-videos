@@ -12,7 +12,7 @@ This list was assembled to share the best talks / lectures related to quality an
 - [About](#about)
 - [GTAC] (#gtac)
 
-
+***
 
 # gtac
 
