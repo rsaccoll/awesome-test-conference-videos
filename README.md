@@ -10,7 +10,7 @@ This list was assembled to share the best talks / lectures related to quality an
 
 ## Content
 - [About](#about)
-- [GTAC] (#gtac)
+- [GTAC](#gtac)
 - 
 
 ***
