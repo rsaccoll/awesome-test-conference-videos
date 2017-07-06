@@ -18,11 +18,13 @@ This list was assembled to share the best talks / lectures related to quality an
 
 # GTAC
 ## 2016
-[Integration Testing with Multiple Mobile Devices and Services](https://www.youtube.com/watch?v=8tjsxxSMkpA&t=164s)
-[OpenHTF - The Open-Source Hardware Testing Framework](https://www.youtube.com/watch?v=bC5YhAo1kHc)
+* [Integration Testing with Multiple Mobile Devices and Services](https://www.youtube.com/watch?v=8tjsxxSMkpA&t=164s)
+
+* [OpenHTF - The Open-Source Hardware Testing Framework](https://www.youtube.com/watch?v=bC5YhAo1kHc)
 
 ## 2015
-[The Uber Challenge of Cross-Application/Cross-Device Testing](https://www.youtube.com/watch?v=p6gsssppeT0)
-[Mobile Game Test Automation Using Real Devices](https://www.youtube.com/watch?v=WFBfRk-GLRo)
+* [The Uber Challenge of Cross-Application/Cross-Device Testing](https://www.youtube.com/watch?v=p6gsssppeT0)
+
+* [Mobile Game Test Automation Using Real Devices](https://www.youtube.com/watch?v=WFBfRk-GLRo)
 
 
