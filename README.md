@@ -13,6 +13,9 @@ This list was assembled to share the best talks / lectures related to quality an
 - [GTAC](#gtac)
     - [2016](#2016)
     - [2015](#2015)
+    - [2014](#2014)
+- [Google I/O](#google-io)
+- [Others](#others)
 
 ***
 
@@ -26,5 +29,14 @@ This list was assembled to share the best talks / lectures related to quality an
 * [The Uber Challenge of Cross-Application/Cross-Device Testing](https://www.youtube.com/watch?v=p6gsssppeT0)
 
 * [Mobile Game Test Automation Using Real Devices](https://www.youtube.com/watch?v=WFBfRk-GLRo)
+
+## 2014
+* [Espresso, Spoon, Wiremock, Oh my!](https://www.youtube.com/watch?v=-xQCNf_5NNM)
+
+# Google I/O
+*[Advanced Espresso - Google I/O 2016](https://www.youtube.com/watch?v=isihPOY2vS4)
+
+# Others
+* [Advanced Android Espresso (Big Android BBQ 2015)](https://www.youtube.com/watch?v=hfoAC9gdC74)
 
 
