@@ -34,7 +34,7 @@ This list was assembled to share the best talks / lectures related to quality an
 * [Espresso, Spoon, Wiremock, Oh my!](https://www.youtube.com/watch?v=-xQCNf_5NNM)
 
 # Google I/O
-*[Advanced Espresso - Google I/O 2016](https://www.youtube.com/watch?v=isihPOY2vS4)
+* [Advanced Espresso - Google I/O 2016](https://www.youtube.com/watch?v=isihPOY2vS4)
 
 # Others
 * [Advanced Android Espresso (Big Android BBQ 2015)](https://www.youtube.com/watch?v=hfoAC9gdC74)
