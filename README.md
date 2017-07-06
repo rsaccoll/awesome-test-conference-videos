@@ -14,5 +14,5 @@ This list was assembled to share the best talks / lectures related to quality an
 
 
 
-## GTAC
+# GTAC
 
