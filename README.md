@@ -8,6 +8,9 @@
 This list was assembled to share the best talks / lectures related to quality and software testing
 
 
+To contribute to this list, if you want to contribute to this list, see the file called [CONTRIBUTING](). For other awesome lists, see [awesome](https://github.com/sindresorhus/awesome).
+
+
 ## Content
 - [About](#about)
 - [GTAC](#gtac)
