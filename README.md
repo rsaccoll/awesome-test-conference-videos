@@ -64,5 +64,8 @@ To contribute to this list, if you want to contribute to this list, see the file
 
 * [Watch Apps: How Do We Test Them? (2016) | en-us](https://academy.realm.io/posts/writing-solid-ui-tests-on-android-mdevcamp-zakharov/)
 
+* [Testes automatizados de todos os tipos usando bibliotecas JavaScript (2015) | pt-br](https://www.infoq.com/br/presentations/testes-automatizados-usando-bibliotecas-javascript)
+
+
 
 
