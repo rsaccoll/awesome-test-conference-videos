@@ -25,40 +25,42 @@ To contribute to this list, if you want to contribute to this list, see the file
 
 # GTAC
 ## 2016
-* [Integration Testing with Multiple Mobile Devices and Services](https://www.youtube.com/watch?v=8tjsxxSMkpA&t=164s)
+* [Integration Testing with Multiple Mobile Devices and Services | en-us](https://www.youtube.com/watch?v=8tjsxxSMkpA&t=164s)
 
-* [OpenHTF - The Open-Source Hardware Testing Framework](https://www.youtube.com/watch?v=bC5YhAo1kHc)
+* [OpenHTF - The Open-Source Hardware Testing Framework | en-us](https://www.youtube.com/watch?v=bC5YhAo1kHc)
 
 ## 2015
-* [The Uber Challenge of Cross-Application/Cross-Device Testing](https://www.youtube.com/watch?v=p6gsssppeT0)
+* [The Uber Challenge of Cross-Application/Cross-Device Testing | en-us](https://www.youtube.com/watch?v=p6gsssppeT0)
 
-* [Mobile Game Test Automation Using Real Devices](https://www.youtube.com/watch?v=WFBfRk-GLRo)
+* [Mobile Game Test Automation Using Real Devices | en-us](https://www.youtube.com/watch?v=WFBfRk-GLRo)
 
 ## 2014
-* [Espresso, Spoon, Wiremock, Oh my!](https://www.youtube.com/watch?v=-xQCNf_5NNM)
+* [Espresso, Spoon, Wiremock, Oh my! | en-us](https://www.youtube.com/watch?v=-xQCNf_5NNM)
 
 ## 2013
-* [Appium: Automation for Mobile Apps](https://www.youtube.com/watch?v=1J0aXDbjiUE)
+* [Appium: Automation for Mobile Apps | en-us](https://www.youtube.com/watch?v=1J0aXDbjiUE)
 
-* [Building Scalable Mobile Test Infrastructure for Google+ Mobile](https://www.youtube.com/watch?v=Dnqxo0QtU98)
+* [Building Scalable Mobile Test Infrastructure for Google+ Mobile | en-us](https://www.youtube.com/watch?v=Dnqxo0QtU98)
 
 
 # Google I/O
-* [Advanced Espresso - Google I/O 2016](https://www.youtube.com/watch?v=isihPOY2vS4)
+* [Advanced Espresso - Google I/O 2016 | en-us](https://www.youtube.com/watch?v=isihPOY2vS4)
 
 # MTC
-* [DevQA - Da zona de conforto ao comprometimento com a Qualidade (2016)](https://www.youtube.com/watch?v=QcsdsYhwWi8)
+* [DevQA - Da zona de conforto ao comprometimento com a Qualidade (2016) | pt-br](https://www.youtube.com/watch?v=QcsdsYhwWi8)
 
-* [Testes de Carga com Locust (2016)](https://www.youtube.com/watch?v=riy0z8ltFeY)
+* [Testes de Carga com Locust (2016) | pt-br](https://www.youtube.com/watch?v=riy0z8ltFeY)
 
-* [Tester, pegue suas coisas. Você está demitido. (2016)](https://www.youtube.com/watch?v=cNCOWg4jjb8)
+* [Tester, pegue suas coisas. Você está demitido. (2016) | pt-br](https://www.youtube.com/watch?v=cNCOWg4jjb8)
 
 # Others
-* [Advanced Android Espresso (Big Android BBQ 2015)](https://www.youtube.com/watch?v=hfoAC9gdC74)
+* [Advanced Android Espresso (Big Android BBQ 2015) | en-us](https://www.youtube.com/watch?v=hfoAC9gdC74)
 
-* [QA to AQ: Being Agile at Quality](https://www.infoq.com/br/presentations/qa-to-aq-being-agile-at-quality)
+* [QA to AQ: Being Agile at Quality | en-us](https://www.infoq.com/br/presentations/qa-to-aq-being-agile-at-quality)
 
-* [ATC - Precisamos falar sobre teste automatizado de infraestrutura (2017)](https://www.facebook.com/agiletesters/videos/843828039104744/)
+* [ATC - Precisamos falar sobre teste automatizado de infraestrutura (2017) | pt-br](https://www.facebook.com/agiletesters/videos/843828039104744/)
+
+* [Writing Solid UI Tests on Android (2017) | en-us](https://academy.realm.io/posts/writing-solid-ui-tests-on-android-mdevcamp-zakharov/)
 
 
 
