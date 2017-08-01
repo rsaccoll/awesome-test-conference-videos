@@ -62,5 +62,7 @@ To contribute to this list, if you want to contribute to this list, see the file
 
 * [Writing Solid UI Tests on Android (2017) | en-us](https://academy.realm.io/posts/writing-solid-ui-tests-on-android-mdevcamp-zakharov/)
 
+* [Watch Apps: How Do We Test Them? (2016) | en-us](https://academy.realm.io/posts/writing-solid-ui-tests-on-android-mdevcamp-zakharov/)
+
 
 
