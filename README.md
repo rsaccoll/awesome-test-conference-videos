@@ -36,6 +36,12 @@ To contribute to this list, if you want to contribute to this list, see the file
 ## 2014
 * [Espresso, Spoon, Wiremock, Oh my!](https://www.youtube.com/watch?v=-xQCNf_5NNM)
 
+## 2013
+* [Appium: Automation for Mobile Apps](https://www.youtube.com/watch?v=1J0aXDbjiUE)
+
+* [Building Scalable Mobile Test Infrastructure for Google+ Mobile](https://www.youtube.com/watch?v=Dnqxo0QtU98)
+
+
 # Google I/O
 * [Advanced Espresso - Google I/O 2016](https://www.youtube.com/watch?v=isihPOY2vS4)
 
