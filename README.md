@@ -51,7 +51,7 @@ To contribute to this list, if you want to contribute to this list, see the file
 
 * [Testes de Carga com Locust (2016)](https://www.youtube.com/watch?v=riy0z8ltFeY)
 
-* [Tester, pegue suas coisas. Você está demitido.](https://www.youtube.com/watch?v=cNCOWg4jjb8)
+* [Tester, pegue suas coisas. Você está demitido. (2016)](https://www.youtube.com/watch?v=cNCOWg4jjb8)
 
 # Others
 * [Advanced Android Espresso (Big Android BBQ 2015)](https://www.youtube.com/watch?v=hfoAC9gdC74)
