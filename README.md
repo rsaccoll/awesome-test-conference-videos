@@ -18,6 +18,7 @@ To contribute to this list, if you want to contribute to this list, see the file
     - [2015](#2015)
     - [2014](#2014)
 - [Google I/O](#google-io)
+- [MTC](#mtc)
 - [Others](#others)
 
 ***
@@ -45,7 +46,19 @@ To contribute to this list, if you want to contribute to this list, see the file
 # Google I/O
 * [Advanced Espresso - Google I/O 2016](https://www.youtube.com/watch?v=isihPOY2vS4)
 
+# MTC
+* [DevQA - Da zona de conforto ao comprometimento com a Qualidade (2016)](https://www.youtube.com/watch?v=QcsdsYhwWi8)
+
+* [Testes de Carga com Locust (2016)](https://www.youtube.com/watch?v=riy0z8ltFeY)
+
+* [Tester, pegue suas coisas. Você está demitido.](https://www.youtube.com/watch?v=cNCOWg4jjb8)
+
 # Others
 * [Advanced Android Espresso (Big Android BBQ 2015)](https://www.youtube.com/watch?v=hfoAC9gdC74)
+
+* [QA to AQ: Being Agile at Quality](https://www.infoq.com/br/presentations/qa-to-aq-being-agile-at-quality)
+
+* [ATC - Precisamos falar sobre teste automatizado de infraestrutura (2017)](https://www.facebook.com/agiletesters/videos/843828039104744/)
+
 
 
