@@ -19,6 +19,7 @@ To contribute to this list, if you want to contribute to this list, see the file
     - [2014](#2014)
 - [Google I/O](#google-io)
 - [MTC](#mtc)
+- [SeleniumConf](#seleniumconf)
 - [Others](#others)
 
 ***
@@ -52,6 +53,13 @@ To contribute to this list, if you want to contribute to this list, see the file
 * [Testes de Carga com Locust (2016) | pt-br](https://www.youtube.com/watch?v=riy0z8ltFeY)
 
 * [Tester, pegue suas coisas. Você está demitido. (2016) | pt-br](https://www.youtube.com/watch?v=cNCOWg4jjb8)
+
+# SeleniumConf
+* [Test Inside Containers: Dockerize Appium Tests (2017) | en-us](https://www.youtube.com/watch?v=jGW6ycW_tTQ)
+
+* [Page Sections Instead of Objects (2017) | en-us](https://www.youtube.com/watch?v=thRP6W72PUY)
+
+* [How to Get Automation Included in Your Definition of Done (2017) | en-us](https://www.youtube.com/watch?v=DBIIYffIfv8)
 
 # Others
 * [Advanced Android Espresso (Big Android BBQ 2015) | en-us](https://www.youtube.com/watch?v=hfoAC9gdC74)
