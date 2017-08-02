@@ -4,7 +4,7 @@ To contribute to this list, please find the appropriate category for the present
 
 Some tips:
 
-* Use the following format: `[Title](Link).
+* Use the following format: `[Title](Link)`.
 * Make sure the video is available for everyone to watch.
 * Commits should follow the pattern: `Added <Category> - <Name of the video>`.
 * New categories or suggestions of improvement are always welcome.
